@@ -34,9 +34,9 @@ Partial Class Search_Providers
         Me.Label1.AutoSize = True
         Me.Label1.Location = New System.Drawing.Point(6, 15)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(279, 13)
+        Me.Label1.Size = New System.Drawing.Size(227, 13)
         Me.Label1.TabIndex = 7
-        Me.Label1.Text = "Select a search provider to save as default search engine"
+        Me.Label1.Text = "Select a search provider to save as the default"
         '
         'RadioButton3
         '
@@ -73,7 +73,7 @@ Partial Class Search_Providers
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(204, 59)
+        Me.Button1.Location = New System.Drawing.Point(191, 37)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(75, 23)
         Me.Button1.TabIndex = 8
@@ -84,7 +84,7 @@ Partial Class Search_Providers
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(291, 94)
+        Me.ClientSize = New System.Drawing.Size(271, 73)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.RadioButton3)
