@@ -112,4 +112,7 @@
     Private Sub ExitToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ExitToolStripMenuItem.Click
         Me.Close()
     End Sub
+    Private Sub QuickShortcutsToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles QuickShortcutsToolStripMenuItem.Click
+        Quick_Shortcuts.ShowDialog()
+    End Sub
 End Class
