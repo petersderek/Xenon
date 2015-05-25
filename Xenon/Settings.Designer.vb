@@ -31,36 +31,36 @@ Partial Class Settings
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(152, 12)
+        Me.Button3.Location = New System.Drawing.Point(168, 12)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(64, 64)
+        Me.Button3.Size = New System.Drawing.Size(72, 64)
         Me.Button3.TabIndex = 5
         Me.Button3.Text = "Themes"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(82, 12)
+        Me.Button2.Location = New System.Drawing.Point(90, 12)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(64, 64)
+        Me.Button2.Size = New System.Drawing.Size(72, 64)
         Me.Button2.TabIndex = 4
-        Me.Button2.Text = "Search Engines"
+        Me.Button2.Text = "Search Preferences"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button1
         '
         Me.Button1.Location = New System.Drawing.Point(12, 12)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(64, 64)
+        Me.Button1.Size = New System.Drawing.Size(72, 64)
         Me.Button1.TabIndex = 3
         Me.Button1.Text = "History"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button4
         '
-        Me.Button4.Location = New System.Drawing.Point(222, 12)
+        Me.Button4.Location = New System.Drawing.Point(246, 12)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(64, 64)
+        Me.Button4.Size = New System.Drawing.Size(72, 64)
         Me.Button4.TabIndex = 6
         Me.Button4.Text = "Help"
         Me.Button4.UseVisualStyleBackColor = True
@@ -69,7 +69,7 @@ Partial Class Settings
         '
         Me.Button5.Location = New System.Drawing.Point(12, 82)
         Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(64, 64)
+        Me.Button5.Size = New System.Drawing.Size(72, 64)
         Me.Button5.TabIndex = 7
         Me.Button5.Text = "Feedback"
         Me.Button5.UseVisualStyleBackColor = True
@@ -78,7 +78,7 @@ Partial Class Settings
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(299, 230)
+        Me.ClientSize = New System.Drawing.Size(330, 230)
         Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
